@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Thinkly Demo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="please_wait">"Please Wait "</string>
+    <string name="yesd">Yes</string>
+    <string name="nod">No</string>
+</resources>
